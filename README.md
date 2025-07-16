@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Shyam Dua, a passionate developer exploring the world of code. Here's a bit about me:<br><br>🚀 I love building with JavaScript, Node.js, and React.<br>💻 Always learning and experimenting with new technologies.<br>📚 Check out my repositories to see what I've been working on!<br>🌱 Open to collaborations and eager to contribute to open-source projects.<br>📫 Let's connect: shyamdua234@gmail.com<br>🔗 Portfolio: https://shyamm23portfolio.netlify.app/
+👋 Hi there! I'm Shyam Dua, a passionate developer exploring the world of code. Here's a bit about me:<br><br>🚀 I love building with JavaScript, Node.js, and React.<br>💻 Always learning and experimenting with new technologies.<br>📚 Check out my repositories to see what I've been working on!<br>🌱 Open to collaborations and eager to contribute to open-source projects.<br>📫 Let's connect: shyamdua234@gmail.com<br>🔗 Portfolio: https://shyamm23456portfolio.netlify.app/
 
 
 ## 🌐 Socials:
